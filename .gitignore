@@ -29,9 +29,6 @@ cmake-build-debug/
 # JIRA plugin
 atlassian-ide-plugin.xml
 
-# Cursive Clojure plugin
-.idea/replstate.xml
-
 # Ruby plugin and RubyMine
 /.rakeTasks
 
@@ -46,11 +43,8 @@ fabric.properties
 
 *.iml
 # modules.xml
-# .idea/misc.xml
 # *.ipr
 
-# Sonarlint plugin
-.idea/sonarlint
 
 ### Eclipse ###
 .metadata
