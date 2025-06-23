@@ -1,3 +1,9 @@
+> ⚠️ **Note:**  
+> This is a **fork** of the Yaeger engine to play around.  
+> If you are using the Yaeger engine for your school project, please use the original from [the original repo URL here.](https://github.com/han-yaeger/yaeger).  
+> If you’re here just for the fun of it, check out the branch `'active-dev'`.
+
+
 # Yaeger
 
 [![Java CI](https://github.com/han-yaeger/yaeger/workflows/Java%20CI/badge.svg)](https://github.com/han-yaeger/yaeger/actions?query=workflow%3A%22Java+CI+with+Maven%22)
